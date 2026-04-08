@@ -13,11 +13,18 @@
 
 <p align="center">
   <a href="https://github.com/joanium/joanium/releases"><img src="https://img.shields.io/github/v/release/joanium/joanium?include_prereleases&style=for-the-badge" alt="GitHub release"></a>
+  <a href="https://github.com/joanium/joanium/stargazers"><img src="https://img.shields.io/github/stars/joanium/joanium?style=for-the-badge&color=yellow" alt="GitHub Stars"></a>
+  <a href="https://github.com/joanium/joanium/issues"><img src="https://img.shields.io/github/issues/joanium/joanium?style=for-the-badge&color=red" alt="Open Issues"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
   <a href="https://joeljolly.vercel.app/"><img src="https://img.shields.io/badge/Built%20by-Joel%20Jolly-blueviolet?style=for-the-badge" alt="Built by Joel Jolly"></a>
 </p>
 
-[Website](https://joanium.com) · [Docs](https://joanium.com/docs) · [Marketplace](https://joanium.com/marketplace)
+<p align="center">
+  <a href="https://joanium.com">🌐 Website</a> ·
+  <a href="https://joanium.com/docs">📖 Docs</a> ·
+  <a href="https://joanium.com/marketplace">🛍️ Marketplace</a> ·
+  <a href="https://www.joanium.com/#download">⬇️ Download</a>
+</p>
 
 ---
 
