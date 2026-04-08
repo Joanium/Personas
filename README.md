@@ -14,6 +14,7 @@
 <p align="center">
   <a href="https://github.com/joanium/joanium/releases"><img src="https://img.shields.io/github/v/release/joanium/joanium?include_prereleases&style=for-the-badge" alt="GitHub release"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://joeljolly.vercel.app/"><img src="https://img.shields.io/badge/Built%20by-Joel%20Jolly-blueviolet?style=for-the-badge" alt="Built by Joel Jolly"></a>
 </p>
 
 [Website](https://joanium.com) · [Docs](https://joanium.com/docs) · [Marketplace](https://joanium.com/marketplace)
